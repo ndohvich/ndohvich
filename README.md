@@ -1,26 +1,22 @@
 ### Hi there 👋
-![ Statistiques GitHub de Caroline ](https://github-readme-stats.vercel.app/api?username=carolinesenes&theme=vision-friendly-dark&show_icons=true)
+![ Statistiques GitHub de Caroline ](https://github-readme-stats.vercel.app/api?username=ndohvich&theme=vision-friendly-dark&show_icons=true)
 
-#  Salut, je suis Caroline ! 👋
-📍Alsace.  
-📷 Également photographe à mon compte.  
-🛠️ Diplômée en développement web depuis Juillet 2021.  
-💻 Appétence pour le front-end, avec des connaissances en Vue, NuxtJS.  
-👀 Intéret : a11y
+#  Salut, je suis Jules Yannick NDOH ! 👋
+📍 Cameroun, Ebolowa.  
+📷 Également Enseignant d'informatique fondametale à ENSET EBOLOWA et Lycée Technique EBOLOWA.
+📷 Également Mentor Evaluateur OPENCLASSROOM sur le parcours Développement WEB et Développeur d'Application PHP/Symfony
+
+🛠️ Diplômée en Informatique Industrielle (Licence en science de l'ingénieur) et d'un Master en Informatique Industrielle.  
+💻 Appétence pour le front-end, avec des connaissances en PHP/Symfony et en Python.  
   
-🌱 | Je continue de me perfectionner en Javascript, Vue, PHP et Wordpress
+🌱 | Je continue de me perfectionner en Javascript, Vue, PHP et IA
   
 🔭 | Je cherche actuellement des missions freelances pour l'intégration web ou le développement front-end, mais reste ouverte à d'autres propositions pro (notamment dans l'accessibilité web).  
 
-
 ##  🔗 Liens
-[![ portfolio ](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carolinealexandre.netlify.app/)
+
 [![ linkedin ](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-moise-yannick-ndoh-ndoh-600683b9/)
   
 ##  🛠 Compétences
-HTML, CSS/Sass, Bootstrap, Javascript, Vue.js, NuxtJS, Vuetify, MySQL, MongoDB, Node/Express, PHP, WordPress, Git,
+HTML, CSS/Sass, Bootstrap, Javascript, Vue.js, React, Ionic, Arduino, Python, Symfony, MySQL, MongoDB, Node/Express, PHP, WordPress, Git, Angular, 
 Accessibilité (WCAG/RGAA), Sécurité (OWASP)
-
-
-##  🏷️ Insignes
-freeCodeCamp ![ points freeCodeCamp ](https://img.shields.io/freecodecamp/points/carolinesenes)
