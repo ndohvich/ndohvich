@@ -8,7 +8,7 @@
 </br>
 
 <div>
-  <img align="left" width="420" src="/banner720.gif" />
+  <img align="left" width="420" src="/A.gif" />
   <div align="right" >
     <h4 align="left">🛠 I’m currently working on Angular</h4>
     <h4 align="left">🌱 I continue to learn Angular / Openshift </h4>
