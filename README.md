@@ -8,13 +8,13 @@
 </br>
 
 <div>
-  <img align="left" width="420" src="/A.gif" />
+  <img align="left" width="60%" src="/A.gif" />
   <div align="right" >
-    <h4 align="left">🛠 I’m currently working on Angular</h4>
-    <h4 align="left">🌱 I continue to learn Angular / Openshift </h4>
+    <h4 align="left">🛠 I’m currently working on React, Angular, Ionic, NodeJs, Typscript, PHP/Symfony</h4>
+    <h4 align="left">🌱 I continue to learn / Openshift </h4>
     <h4 align="left">🔬 I'm curious about too many things...</h4>
     <h4 align="left">💡 I sometimes share Web Dev stuffs on Twitter.</h4>
-    <h4 align="left">🤩 I’m in my first job as a Frontend Developer since April 2022.</h4>
+    <h4 align="left">🤩 I’m in my first job as a Web Developer since September 2017.</h4>
   </div>
 </div>
   
@@ -31,6 +31,9 @@
 
   <img alt="HTML5" title="HTML" width="45px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img alt="CSS3" title="CSS" width="45px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img alt="PHP" title="PHP" width="45px" src="https://img.icons8.com/color/48/000000/php.png"/>
+  <img alt="SYMFONY" title="Symfony" width="45px" src="https://img.icons8.com/color/48/000000/symfony.png"/>
+  <img alt="Ionic" title="IONIC" width="45px" src="https://img.icons8.com/color/48/000000/ionic.png"/>
   <img alt="Bootstrap" title="Bootstrap" width="45px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img alt="Sass" title="Saas" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img alt="JavaScript" title="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
