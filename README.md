@@ -22,7 +22,6 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/122631297-90be4e80-d0d3-11eb-90e3-dd7c46d5a42e.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029255-7a76f500-9ece-11eb-8e98-93379f1dacfa.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029106-50bdce00-9ece-11eb-8daa-b2d6079755f1.png"></code>
-<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029106-50bdce00-9ece-11eb-8daa-b2d6079755f1.png"></code>
 
 
 ### Tools & Libraries: 
