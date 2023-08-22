@@ -58,8 +58,8 @@
 
 <div align="center">
 
-<a href="https://github.com/AI-MOO"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AI-MOO&theme=nord"/>
-<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AI-MOO&layout=compact&langs_count=8&theme=nord" />
+<a href="https://github.com/ndohvich"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ndohvich&theme=nord"/>
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ndohvich&layout=compact&langs_count=8&theme=nord" />
 </a>
 
 </div>
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AI-MOO&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ndohvich&theme=nord)](https://git.io/streak-stats)
 
 </div>
 
