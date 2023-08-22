@@ -1,63 +1,85 @@
+<!-- 
+**ndohvich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+--> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3500&color=60A6FB&lines=%3E%3E%3E+Welcome+to+my+profile+%F0%9F%91%8B!;%3E%3E%3E+Hope+to+find+it+useful+%E2%9C%A8)](https://git.io/typing-svg)
+
+#### `KNOWLEDGE IS POWER 💡` 
+- ✨ I’m currently working on great AI & Data Science projects using R & Python & React.
+- 🌱 I’m currently learning Deep Learning, NLP and more.  
+- 🤔 I’m looking for help with Big Data. 
+- 💬 Ask me about AI , Data science, IoT , Electrical Engineering.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jules-moise-yannick-ndoh-ndoh-600683b9/">ndohvich</a>
+
+
+### Languages:
+
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/131630402-baa839b4-7c23-4fc7-86dd-4a34b555e725.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/131631974-ac93d19c-6822-4839-b171-035cbd3bac90.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/131631712-a329b0dc-7ad2-4c7f-a8f8-55e92e7261df.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/131631824-19e6f5c7-311c-4a78-9e56-49fed5162565.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/122631297-90be4e80-d0d3-11eb-90e3-dd7c46d5a42e.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029255-7a76f500-9ece-11eb-8e98-93379f1dacfa.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029106-50bdce00-9ece-11eb-8daa-b2d6079755f1.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115029106-50bdce00-9ece-11eb-8daa-b2d6079755f1.png"></code>
+
+
+### Tools & Libraries: 
+
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115025882-8b256c00-9eca-11eb-98fc-9f75f389fc03.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026296-ff600f80-9eca-11eb-8e8d-3f13cd6eca90.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026359-130b7600-9ecb-11eb-876a-bb66a68a1d11.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026566-51a13080-9ecb-11eb-848c-1767a735c491.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026827-9e850700-9ecb-11eb-81ad-b8a9f8c05d47.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115026923-b8264e80-9ecb-11eb-8ee7-909dd4110ca0.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027233-1f440300-9ecc-11eb-84e3-a72a9fc907db.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027423-5ca89080-9ecc-11eb-90e5-b183abf9420f.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027614-98dbf100-9ecc-11eb-9446-d24fe878417a.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027697-b4df9280-9ecc-11eb-8081-209b0c4ac390.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027795-cde84380-9ecc-11eb-8b0c-c09574c30381.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/124935922-c2f60880-e00e-11eb-8803-dea9f7627ff7.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115031856-4fda6b80-9ed1-11eb-854a-07b9741f7df2.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027840-de002300-9ecc-11eb-9dc0-54c5b13f8ec1.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115393315-36dffc00-a1ea-11eb-86d9-b583bc938afa.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028040-1a338380-9ecd-11eb-986e-c66bb000cdc6.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027898-f40de380-9ecc-11eb-985d-9b1ec5ab1b01.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115027978-0851e080-9ecd-11eb-99fd-bb9298477b39.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028247-4fd86c80-9ecd-11eb-9c34-c1ea8f51520a.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028555-ac3b8c00-9ecd-11eb-9577-02ce32d064f9.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028131-333c3480-9ecd-11eb-80ff-73741079df1e.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/67054356/115028658-cb3a1e00-9ecd-11eb-8c3e-3f3ff08f8bc6.png"></code>
+
+
+### Statistics 📊: 
+
+![](https://komarev.com/ghpvc/?username=ndohvich&color=blue) 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ndohvich?style=social"> <a href="https://twitter.com/ndohvich"><img src="https://img.shields.io/twitter/follow/ndohvich?style=social" /></a>
+
 <div align="center">
 
-<div>
-  <h1>Hi there 👋, my name is Jules Yannick NDOH NDOH</h1>
-  <p><b>I’m a Web Developer.</b></p>
-</div>
-  
-</br>
+<a href="https://github.com/AI-MOO"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AI-MOO&theme=nord"/>
+<img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AI-MOO&layout=compact&langs_count=8&theme=nord" />
+</a>
 
-<div>
-  <img align="left" width="60%" src="/A.gif" />
-  <div align="right" >
-    <h4 align="left">🛠 I’m currently working on React, Angular, Ionic, NodeJs, Typscript, PHP/Symfony</h4>
-    <h4 align="left">🌱 I continue to learn / Openshift </h4>
-    <h4 align="left">🔬 I'm curious about too many things...</h4>
-    <h4 align="left">💡 I sometimes share Web Dev stuffs on Twitter.</h4>
-    <h4 align="left">🤩 I’m in my first job as a Web Developer since September 2017.</h4>
-  </div>
 </div>
-  
-<br/>
-<br/>
-  
-<div>I started learning to code in September 2013. </div>
-  
-<br/>
-<br/>
 
-<div>  
-  <h2>Languages and Tools:</h2>
 
-  <img alt="HTML5" title="HTML" width="45px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img alt="CSS3" title="CSS" width="45px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img alt="PHP" title="PHP" width="45px" src="https://img.icons8.com/color/48/000000/php.png"/>
-  <img alt="SYMFONY" title="Symfony" width="45px" src="https://img.icons8.com/color/48/000000/symfony.png"/>
-  <img alt="Ionic" title="IONIC" width="45px" src="https://img.icons8.com/color/48/000000/ionic.png"/>
-  <img alt="Bootstrap" title="Bootstrap" width="45px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img alt="Sass" title="Saas" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img alt="JavaScript" title="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="Typescript" title="Typescript" width="45px" src="https://img.icons8.com/color/48/000000/typescript.png" />
-  <img alt="Reactjs" title="Reactjs" width="45px" src="https://img.icons8.com/office/72/react.png" />
-  <img alt="Redux" title="Redux" width="45px" src="https://img.icons8.com/color/48/000000/redux.png" />
-  <img alt="Angular" title="Angular" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-  <img alt="Git" title="Git" width="45px" src="https://img.icons8.com/color/48/000000/git.png" />
-  <img alt="Jira" title="Jira" width="45px" src="https://img.icons8.com/color/48/000000/jira.png" />
-  <img alt="Visual Studio Code" title="VS Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="mongodb" title="MongoDB" width="45px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AI-MOO&theme=nord)](https://git.io/streak-stats)
+
 </div>
-  
-<br/>
-<br/>
 
-<div>
-  <h2>📫 How to reach me:</h2>
-  <a href="https://www.linkedin.com/in/jules-moise-yannick-ndoh-ndoh-600683b9/">
-    <img alt="linkedin" title="LinkedIn" width="65px" src="https://user-images.githubusercontent.com/64198045/143304055-362fe9e0-c016-4e1f-8cd3-1488ccafaa48.gif"/>
-  </a>
-  <a href="https://twitter.com">
-   <img alt="twitter" title="Twitter" width="65px" src="https://user-images.githubusercontent.com/64198045/143304072-86665c35-b343-46fe-984c-93aec4b8e323.gif" />
-  </a>
-</div>
+
+
+### Connect with me 📬:
+
+<p align="center">
+<a href="https://twitter.com/Science10S"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.kaggle.com/aiotmoo"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/15754086/mohamad-osman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>  
+<a href="https://github.com/AI-MOO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
+</p>
 
 </div>
